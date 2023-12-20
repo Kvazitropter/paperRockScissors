@@ -1,0 +1,11 @@
+{
+  "name": "paper-rock-scissors",
+  "version": "1.0.0",
+  "description": "paper rock scissors in command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kvazitropter",
+  "license": "ISC"
+}
